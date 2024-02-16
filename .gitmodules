@@ -1,3 +1,6 @@
 [submodule "unallocated"]
 	path = unallocated
 	url = git@github.com:eluts15/unallocated.git
+[submodule "snapshotd"]
+	path = snapshotd
+	url = git@github.com:eluts15/snapshotd.git
