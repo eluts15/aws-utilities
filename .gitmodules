@@ -1,6 +1,6 @@
 [submodule "unallocated"]
-	path = aws/unallocated
+	path = cloud/aws/unallocated
 	url = git@github.com:eluts15/unallocated.git
 [submodule "snapshotd"]
-	path = aws/snapshotd
+	path = cloud/aws/snapshotd
 	url = git@github.com:eluts15/snapshotd.git
